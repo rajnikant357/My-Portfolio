@@ -58,16 +58,6 @@ Modify the CSS variables in `styles.css`:
 --text-secondary: #4a5568;
 --text-light: #718096;
 ```
-
-### Images
-Replace placeholder elements with your actual images:
-
-1. **Profile Image**: Replace the profile placeholder in the hero section
-2. **About Image**: Add your photo in the about section
-3. **Project Images**: Add screenshots of your projects
-4. **Background Images**: Customize section backgrounds
-
-
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-%23667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rajnikant357.github.io/My-Portfolio/)
 
 **Happy Coding! 🎉**
