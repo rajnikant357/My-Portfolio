@@ -1,3 +1,6 @@
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-%23667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rajnikant357.github.io/My-Portfolio/)
+
 # Modern Portfolio Website
 
 A beautiful, responsive portfolio website built with HTML, CSS, and JavaScript. This portfolio features a modern design with smooth animations, mobile-first responsive layout, and interactive elements.
@@ -63,5 +66,8 @@ Replace placeholder elements with your actual images:
 2. **About Image**: Add your photo in the about section
 3. **Project Images**: Add screenshots of your projects
 4. **Background Images**: Customize section backgrounds
+
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-%23667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rajnikant357.github.io/My-Portfolio/)
 
 **Happy Coding! 🎉**
