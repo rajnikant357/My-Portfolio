@@ -1,3 +1,4 @@
+
 * {
   margin: 0;
   padding: 0;
@@ -167,6 +168,23 @@ body {
   display: flex;
   gap: 1rem;
   flex-wrap: wrap;
+}
+
+/* Hero Social Links Responsive Styles */
+.hero-social-links {
+  display: flex;
+  justify-content: flex-start;
+  margin-bottom: 1.5rem;
+}
+
+@media (max-width: 768px) {
+  .hero-social-links {
+    justify-content: center;
+    margin-bottom: 1.5rem;
+  }
+  .hero-buttons {
+    justify-content: center;
+  }
 }
 
 .btn {
