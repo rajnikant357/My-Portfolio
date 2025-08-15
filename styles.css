@@ -1,4 +1,3 @@
-
 * {
   margin: 0;
   padding: 0;
@@ -625,6 +624,14 @@ body {
 
   .section-title {
     font-size: 2rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .about-image {
+    display: flex;
+    justify-content: center;
+    width: 100%;
   }
 }
 
